@@ -1,0 +1,32 @@
+# venv
+venv/
+
+# PYcharm
+.idea/
+
+# visual studio code
+.vscode/
+
+# Python
+*.pyc
+
+# temp report
+report/
+
+# allure report
+allure_report/
+
+# temp generate file
+temp/
+tmp/
+
+# download folder
+download/
+
+# log
+*.log
+plain.output
+*.png
+
+# ignore config.py, everyone need to generate self owned config.py based on config_template.py
+config.py

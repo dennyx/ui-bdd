@@ -1,0 +1,3 @@
+[mergetool]
+    prompt = true
+    keepBackup = false
